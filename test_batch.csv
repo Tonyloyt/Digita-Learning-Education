@@ -1,0 +1,4 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays
+M,SaudiArabia,KuwaIT,MiddleSchool,G-02,A,IT,F,Mum,5,20,4,5,Yes,Bad,Under-7
+F,KuwaIT,Egypt,lowlevel,G-08,B,Math,S,Father,10,3,12,8,No,Good,Under-7
+F,Egypt,Egypt,HighSchool,G-09,C,Arab,F,Mum,2,42,32,7,Yes,Good,Above-7
